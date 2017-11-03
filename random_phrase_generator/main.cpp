@@ -3,7 +3,7 @@
 #include <clocale>
 using namespace std;
 
-//Warning! This application uses Windows' Cyrillic!
+// Warning! This application uses Windows' Cyrillic!
 
 const int parts_of_phrase = 6, dict_size = 7;
 
